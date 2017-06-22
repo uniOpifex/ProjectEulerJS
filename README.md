@@ -1,0 +1,2 @@
+# ProjectEulerJS
+Euler in JS
